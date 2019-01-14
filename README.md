@@ -6,3 +6,6 @@ docker pull sergant/ifobs
 
 # Run image:
 docker run --rm -v $HOME/dir-with-keys:/mnt/host -v /tmp/.X11-unix:/tmp/.X11-unix:rw -e DISPLAY=unix$DISPLAY --name ifobs sergant/ifobs
+
+# Docs (RU)
+http://sys-adm.org.ua/docker/otp-ifobs-client-java-applets
