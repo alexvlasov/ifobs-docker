@@ -1,7 +1,7 @@
 # ifobs-docker
 IFOBS docker image for OTP bank &amp; Kredobank
 
-# Download image from dockerhub (docker.io/sergant/ifobs)
+# Download image from dockerhub
 docker pull sergant/ifobs
 
 # Run image:
